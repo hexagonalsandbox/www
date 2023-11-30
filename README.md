@@ -1,6 +1,10 @@
 # [hexagonalsandbox.com](http://www.hexagonalsandbox.com) 
 - hexagonal sandbox, how modular architecture works in real life with examples
 
+"Play and Design: Modular Architecture for Beginners" that book introduce young people and teenagers to the concept of hypermodular architecture. 
+The book is accessible to those who are new to the subject, 
+With hexagonal sandbox learning about architecture can be interactive and enjoyable.
+
 Hexagonal Sandbox is a book about hypermodular architecture for a younger audience, I would suggest looking for educational materials that are tailored to introducing architectural concepts to youth. These resources may include interactive websites, educational programs, or children's books that focus on the principles of modular design, sustainability, and innovation in architecture.
 
 A book focus on the hexagonal packing system which is a frequently used geometric approach in modular building design due to its efficiency and strength. 
